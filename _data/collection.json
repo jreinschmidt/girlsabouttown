@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Girls About Town 1931" ] },
+    "summary": { "en": [ "Girls About Town (1931) is a pre-code film directed by George Cukor, starring Kay Francis, Lilyan Tashman, and Joel McCrea" ] },
+    "items": [
+    ]
+}
