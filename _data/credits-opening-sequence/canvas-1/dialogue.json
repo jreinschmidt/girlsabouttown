@@ -1,0 +1,806 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue.json",
+  "type": "AnnotationPage",
+  "label": "Dialogue",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LT: It's been an evil night",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:01:35:22"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "KF: Isn't it a relief to get away?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:01:38:25"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LT: All through the show we talked about nothing but Des Moines",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:01:40:22"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "KF: Is that all? I've got a callus on my knee from my (?) boyfriend's subtle approach",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:01:44:02"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Cut/Location change] \"What I object to is the issue of A and B stock-\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:01:49:27"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Now now gentlemen, gentlemen, please, no business. Lets talk everything over tomorrow, tonight you're my guests. And don't forget, we're fortunate in having the company of two of the most charming young ladies in town.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:01:52:02"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And how! What a broomneck. Chase you certainly can pick em.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:02:03:06"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Uh I like that blonde, she's certainly got a great line of talk that girl",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:02:07:16"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Now remember, tonight no business.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:02:10:02"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Cut/Location change] KF: Have you ever seen two such All American total losses(?) in your life? I mean to say-",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:02:13:08"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LT: Just a couple of playboys from the cornmill",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:02:18:00"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "KF: You know, I'm getting pretty sick of (?)'s Mr. Jerry Chase",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:02:20:29"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LT: Say, what's so tough about it? We soften up the boys and good old Jerry puts over his deal--and we get well payed for it. Lovely work if you can get it to do",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:02:24:20"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "KF: Well I don't like it. And each time it gets duller and duller and duller.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:02:34:13"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LT: There are only a few hours left in the evening",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:02:38:17"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Faces change to fake smiles as men show up] [Overlapping audio] KF: Oh hello! LT: Oh there you are! Oh it's so good to see you again! Jerry I think your friends are adorable KF: Oh Jerry they're divine!",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:02:42:01"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "JC: As I was saying to my friends you know, you're about as smart a girl as I've ever met",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:02:51:00"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LT: Oh Mr. Webster, you'll make me all conceited!",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:02:55:23"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "KF: You don't come to New York(?) very often do you?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:02:59:23"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Not often enough I guess",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:03:01:27"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "KF: Oh ho, I bet you say that to every girl you meet",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:03:03:17"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "No I don't",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:03:06:08"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "KF: Don't you really? Oh. You know, I think there's nothing so distinguished as grey hair.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:03:07:13"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Touches her arm] \"We're gonna get along all right.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:03:14:11"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "KF: \"Oh absolutely\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:03:16:24"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Everybody calls me Webby in Des Moines",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:03:19:27"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LT: Webby, isn't that cute?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:03:22:13"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "You know, if you should ever happen to be there I want you to call me up",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:03:25:20"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LT: \"I can hardly wait\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:03:29:28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"At the office...\" [LT winks] [winks back]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:03:31:21"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LT: Oh Wanda dear, Webby's just asked me to visit him in Des Moines [pronounced like Dee Moi]",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:03:36:02"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[drunken gestures] \"I wanna see my little friend home\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:04:22:27"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Is this where you live?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:04:37:28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LT: \"Well I only live in some of it\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:04:41:14"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Eh, how 'bout me coming in for a few minutes?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:04:43:19"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "LT: \"Oh Mr. Webster you're so dominating\" \"You mind?\" \"Hm, I love it! ... Wait, there's Mother.\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:04:46:15"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Where?\" LT: [points up] \"There! The dear thing, she's waiting up for me, I'm afraid we can't. [Holds out her hand] Goodnight\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:04:56:10"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Fine well, goodnight!\" [kisses hand] LT: \"Ooooh! A big star sapphire, my birthstone! [takes ring off hand] Oh it's just lovely Mr. Webster I just love it [pushing away], goodnight!\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:05:07:05"
+        }
+      }
+    }
+  ]
+}

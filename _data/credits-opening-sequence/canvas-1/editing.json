@@ -1,0 +1,50 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/editing.json",
+  "type": "AnnotationPage",
+  "label": "Editing",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/editing-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut to closer shot",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:04:16:29"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/editing-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Fade to next scene",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:04:27:27"
+        }
+      }
+    }
+  ]
+}

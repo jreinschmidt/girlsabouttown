@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/opening-credits.json",
+  "type": "AnnotationPage",
+  "label": "Opening Credits",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/opening-credits-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A Paramount Picture",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:00:00:29,00:00:10:17"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/opening-credits-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Backdrop of girls dancing superimposed over a cityscape/could be model buildings] Paramount Presents GIRLS ABOUT TOWN with Kay Francis, Joel McCrea, Lilyan Tashman, Eugene Pallete, and Allan Dinechart. Directed by George Cukor, Copyright MCMXXXII Paramount Publix Coorporation all rights reserved\r\n\r\n",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:00:13:19,00:00:24:16"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/opening-credits-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "By Zoe Akins, Screen play by Raymond Griffith and Brian Marlow, Photographed by Ernest Haller. Western Electric Noiseless Recording, Passed the National Board of Review",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:00:26:21,00:00:37:07"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/opening-credits-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The Players - Kay Francis, Joel McCrea, Lilyan Tashman, Eugene Pallette, Allan Dinehart, Lucille Webster Gleason, Anderson Lawler, Lucille Brown, George Barbier, Robert McWade, Louise Beavers",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:00:39:19,00:01:02:24"
+        }
+      }
+    }
+  ]
+}

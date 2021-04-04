@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/effects-cinematography.json",
+  "type": "AnnotationPage",
+  "label": "Effects/Cinematography",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/effects-cinematography-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Fade in - start of a long shot, camera dollies in and pans without cutting until next montage",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:01:03:14,00:01:04:17"
+        }
+      }
+    }
+  ]
+}

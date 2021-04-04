@@ -1,0 +1,71 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/effects.json",
+  "type": "AnnotationPage",
+  "label": "Effects",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/effects-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Montage of women's dressing room, vertical pan over women's bodies superimposed over eachother\r\n",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:01:21:11,00:01:35:08"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/effects-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A party montage with the champagne bubbles and lights superimposed over Kay and others laughing/crying/dancing/passing out etc, spinning drinks and heads to show drunkenness",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "00:03:46:13,00:04:13:13"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/effects-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "crane shot",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "00:04:13:29"
+        }
+      }
+    }
+  ]
+}

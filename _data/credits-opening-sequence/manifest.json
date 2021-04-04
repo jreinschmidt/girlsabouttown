@@ -23,6 +23,44 @@
         "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas",
         "type": "Canvas",
         "duration": 324.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/cinematography.json",
+            "label": "Cinematography"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/editing.json",
+            "label": "Editing"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/opening-credits.json",
+            "label": "Opening Credits"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/effects-cinematography.json",
+            "label": "Effects/Cinematography"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/dialogue.json",
+            "label": "Dialogue"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/canvas/effects.json",
+            "label": "Effects"
+          }
+        ],
         "items": [
           {
             "id": "https://jreinschmidt.github.io/girlsabouttown/credits-opening-sequence/canvas-1/paintings",
